@@ -1,4 +1,4 @@
-### **1. GitHub Repository Description**
+### **Repository Description**
 
 #### **Title**
 **Legal Document Assistant with Advanced Summarization and Query Filtering**
