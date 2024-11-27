@@ -75,13 +75,13 @@ Navigate to `http://127.0.0.1:7860` in your browser to access the interface.
 
 #### **Video Sample**
 
-https://github.com/triyam/LegalDocumentAssistant/blob/main/Screen-Recording.mp4
+https://github.com/user-attachments/assets/e091aa81-e772-4a87-980e-9fb024026b45
 
 ---
 
 #### **Documentation**
 
-https://github.com/triyam/LegalDocumentAssistant/blob/main/Documentation%20for%20Legal%20Document%20Assistant.pdf
+[Documentation for Legal Document Assistant.pdf](https://github.com/user-attachments/files/17939335/Documentation.for.Legal.Document.Assistant.pdf)
 
 ---
 
