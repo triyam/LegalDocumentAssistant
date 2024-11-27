@@ -48,21 +48,8 @@ This project is an advanced **Legal Document Assistant** designed to help users 
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/legal-document-assistant.git
-cd legal-document-assistant
-pip install -r requirements.txt
+git clone https://github.com/triyam/LegalDocumentAssistant.git
 ```
-
----
-
-#### **Usage**
-Run the application:
-
-```bash
-python app.py
-```
-
-Navigate to `http://127.0.0.1:7860` in your browser to access the interface.
 
 ---
 
