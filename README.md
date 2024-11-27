@@ -9,7 +9,7 @@ This project is an advanced **Legal Document Assistant** designed to help users 
 ---
 
 #### **Features**
-1. **File Upload**: Upload legal documents in `.txt` format for processing.
+1. **File Upload**: Upload legal documents in `.txt` or `.pdf` format for processing.
 2. **Document Preprocessing**:
    - Metadata extraction for filtering (e.g., jurisdiction, date).
    - Splitting large documents into manageable chunks for better performance.
@@ -73,6 +73,6 @@ https://github.com/user-attachments/assets/e091aa81-e772-4a87-980e-9fb024026b45
 ---
 
 #### **Future Enhancements**
-- Add support for multiple file formats (e.g., PDFs).
+- Add support for multiple file formats (e.g., JPG, PNG).
 - Expand metadata extraction (e.g., document type, author).
 - Enable multilingual summarization.
